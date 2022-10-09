@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  color: #fff;
+  background: linear-gradient(to right, #5F9DF7, #1746A2)
+
+}
+.inner-form{
+  padding: 10px;
+}
